@@ -48,4 +48,4 @@ console.log(studentList.updateCollege("2015-105869", "CCS"));
 console.log(studentList.updateAddress("2015-105869", "Binangonan Rizal"));
 console.log(studentList.updateCourse("2015-105869", "BSIT"));
 console.log(studentList.updateGender("2015--105869", "FEMALE"));
-console.log(studentList.removeStudent("2015g-105869"));
+console.log(studentList.removeStudent("2015-105869"));
